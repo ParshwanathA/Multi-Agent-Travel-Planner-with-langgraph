@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-groq
+langchain-community
+psycopg[binary]==3.3.4
+psycopg_pool==3.3.1
+python-dotenv
+requests
+langgraph-checkpoint-postgres
+airportsdata==20260905
+pycountry==26.2.16
+fastapi
+uvicorn
+jinja2
